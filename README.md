@@ -1,1 +1,1 @@
-Navigation bar at the top of a webpage.
+This code creates a navigation bar for the top of a webpage.
